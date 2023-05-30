@@ -6,4 +6,4 @@ Dockerfile permite a criação de uma imagem com ~2MB, a qual quando executada d
 
 ## Link
 Repositório dockerhub - https://hub.docker.com/repository/docker/gianbianchi/golang/general <br/>
-Imagem - gianbianchi/golang
+Imagem - gianbianchi/fullcycle
