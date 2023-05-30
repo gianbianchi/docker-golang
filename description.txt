@@ -1,0 +1,8 @@
+Gerar na tela um print chamado:
+ "Full Cycle Rocks!!"
+
+Pegadinha:
+-> A imagem não pode ter mais que 2MB
+
+Fazer um push da imagem
+Colocar o nome da imagem no README.md
